@@ -1,6 +1,5 @@
 #include <stdio.h>
- 
-int main()
+void fact()
 {
   int c, n, fact = 1;
  
